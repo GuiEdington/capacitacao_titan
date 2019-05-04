@@ -1,3 +1,7 @@
 Amor eterno pra Lincon.
 
+<<<<<<< HEAD
 - De João.
+=======
+- De João S2
+>>>>>>> 0fc2163fd23bbecf8fcd2a27dd176fe4179e4ec0
